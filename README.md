@@ -5,15 +5,15 @@ This project demonstrates end-to-end data cleaning using **MySQL** on a real-wor
 
 ## Tools Used
 
-- **MySQL** — data cleaning and transformation\
+- **MySQL** — data cleaning and transformation
 - **SQL techniques** — CTEs, Window Functions, ROW_NUMBER(), JOINs, STR_TO_DATE(), ALTER TABLE
 
 
 ## Dataset
 
-- Source: Kaggle — Layoffs Dataset\
-- Records: Global company layoffs across multiple industries and countries\
-- Period covered: 2020 – 2023\
+- Source: Kaggle — Layoffs Dataset
+- Records: Global company layoffs across multiple industries and countries
+- Period covered: 2020 – 2023
 - Key fields: Company, Location, Industry, Total Laid Off, Percentage Laid Off, Date, Stage, Country, Funds Raised
 
 
